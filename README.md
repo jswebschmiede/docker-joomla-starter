@@ -84,5 +84,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Special Thanks
 
 -   to Christophe Avonture (cavo789) for the original project structure and tutorials
-    -   https://www.avonture.be/blog/docker-joomla-part-1
+    -   https://www.avonture.be/blog/docker-joomla
     -   https://www.avonture.be/blog/docker-joomla-part-2
